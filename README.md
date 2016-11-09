@@ -1,0 +1,2 @@
+# CNAME
+aaacy.cc
